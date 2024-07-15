@@ -1,1 +1,37 @@
 # IOT-smart-home-system
+
+## Project Overview:
+In this project, we developed a comprehensive smart home system utilizing Internet of Things (IoT) technologies to enhance daily living experiences, increase security, and improve comfort at home. The goal of the project is to create a smart home environment that can interact with us and automatically control household devices in a secure and efficient manner.
+
+## Project Features:
+
+### Abnormal Behavior Detection:
+
+The system includes a camera that uses computer vision techniques and the YOLO model to detect unusual behavior. For instance, if a mother leaves her children alone at home, the model can recognize if there is a fight or any harmful behavior and send a notification to the mother. It can also detect fires and other emergencies.
+
+### Automated Door Control:
+
+The door opens automatically when a person approaches the camera. If the person is authorized, the door will open; if not, it remains closed.
+
+### Intruder Alert:
+
+When the house is empty, a PIR sensor is activated. This sensor detects motion and sends an immediate alert if an intruder enters the house.
+
+### Temperature and Humidity Control:
+
+A sensor measures the room’s temperature and humidity. If the temperature is too high, the fan turns on automatically.
+Automatic Lighting:
+
+The camera detects if someone is at home, and the lights turn on automatically.
+
+### LCD Display:
+
+An LCD screen displays real-time values of temperature and other relevant data.
+
+### Energy Saving:
+
+A sensor measures the amount of light. If the light level is low, it turns on the outdoor garden lights to avoid them being on continuously.
+
+### Gas Leak Detection:
+
+A sensor measures the gas level. In case of any gas leak in the apartment, it alerts early to prevent hazards.

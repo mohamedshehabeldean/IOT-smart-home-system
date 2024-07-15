@@ -39,3 +39,6 @@ A sensor measures the gas level. In case of any gas leak in the apartment, it al
 ## Dashboard to control the system
 
 ![dashboard](https://github.com/user-attachments/assets/3d349ce9-1a65-48c1-b996-a5cac917c431)
+
+## video
+https://youtu.be/7BPIaorJ3YE?si=nHGD6kZGE3c094LO

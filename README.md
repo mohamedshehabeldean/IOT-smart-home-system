@@ -35,3 +35,7 @@ A sensor measures the amount of light. If the light level is low, it turns on th
 ### Gas Leak Detection:
 
 A sensor measures the gas level. In case of any gas leak in the apartment, it alerts early to prevent hazards.
+
+## Dashboard to control the system
+
+![dashboard](https://github.com/user-attachments/assets/3d349ce9-1a65-48c1-b996-a5cac917c431)

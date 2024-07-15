@@ -1,5 +1,7 @@
 # IOT-smart-home-system
 
+I am incredibly proud and grateful for the hard work and dedication of my team members : yahya hamza - eslam zogla - soliman mahmoud
+
 ## Project Overview:
 In this project, we developed a comprehensive smart home system utilizing Internet of Things (IoT) technologies to enhance daily living experiences, increase security, and improve comfort at home. The goal of the project is to create a smart home environment that can interact with us and automatically control household devices in a secure and efficient manner.
 

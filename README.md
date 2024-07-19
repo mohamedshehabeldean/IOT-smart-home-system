@@ -45,7 +45,7 @@ A sensor measures the gas level. In case of any gas leak in the apartment, it al
 ## video
 https://youtu.be/7BPIaorJ3YE?si=nHGD6kZGE3c094LO
 
-* the video of IOT-smart home system  [click here]([https://youtu.be/7BPIaorJ3YE?si=nHGD6kZGE3c094LO)
+* the video of IOT-smart home system  [click here](https://youtu.be/7BPIaorJ3YE?si=nHGD6kZGE3c094LO)
 
 > [!NOTE]
 > Feel free to reach out if you'd like to learn more about our project or explore potential collaborations.
